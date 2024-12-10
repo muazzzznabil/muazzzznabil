@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muazzzznabil" alt="muazzzznabil" /></a> </p>
 
-- 🔭 I’m currently working on [Muslim Guider](https://github.com/muazzzznabil/Muslim-Guider_flutter.git)
+- 🔭 I’m currently working on [UMT academic accreditation System](https://github.com/muazzzznabil/UMT-accreditation-System)
 
-- 🌱 I’m currently learning **Flutter, Angular**
+- 🌱 I’m currently learning **Flutter, Angular,ReactTs,NodeJS**
 
 - 👯 I’m looking to collaborate on [Muslim Guider](https://github.com/muazzzznabil/Muslim-Guider_flutter.git)
 
-- 🤝 I’m looking for help with [Muslim Guider](https://github.com/muazzzznabil/Muslim-Guider_flutter.git)
+- 🤝 I’m looking for help with [UMT academic accreditation System](https://github.com/muazzzznabil/UMT-accreditation-System)
 
 - 💬 Ask me about **Java, Flutter**
 
